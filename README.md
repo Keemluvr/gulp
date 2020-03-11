@@ -4,7 +4,7 @@
 Instala o gulp localmente  
 >npm install --save-dev gulp
 
-Criando o gulpfile.js  
+Cria o gulpfile.js  
 >touch.exe gulpfile.js
 
 
